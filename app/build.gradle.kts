@@ -5,13 +5,13 @@ plugins {
 android {
     namespace = "org.setu.placemark"
     compileSdk {
-        version = release(37)
+        version = release(36)
     }
 
     defaultConfig {
         applicationId = "org.setu.placemark"
         minSdk = 24
-        targetSdk = 37
+        targetSdk = 36
         versionCode = 1
         versionName = "1.0"
 
